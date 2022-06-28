@@ -509,7 +509,7 @@ export default function Home() {
             <a
               className={styles.button}
               href="https://crypto-dev-ico-dukepat.vercel.app/"
-              target= "_blank"
+              target= "_blank" rel="noopener noreferrer"
             >
               Mint CDVT
             </a>
